@@ -1,0 +1,57 @@
+[
+  {
+      "id": 0,
+      "customerName": "Jenil",
+      "phoneNumber": 9878685848,
+      "address": "Tempe",
+      "loanAmount": 250,
+      "interest": 13,
+      "loanTermYears": 4,
+      "loanType": "Student Loan",
+      "description": "Educational Loan"
+  },
+  {
+      "id": 1,
+      "customerName": "Alpa",
+      "phoneNumber": 9623009528,
+      "address": "Austin",
+      "loanAmount": 100,
+      "interest": 12,
+      "loanTermYears": 2,
+      "loanType": "Personal Loan",
+      "description": "Loan for a Car"
+  },  
+  {
+      "id": 2,
+      "customerName": "Deva",
+      "phoneNumber": 9623009528,
+      "address": "Georgia",
+      "loanAmount": 120,
+      "interest": 10,
+      "loanTermYears": 5,
+      "loanType": "Auto Loan",
+      "description": "The Auto Loan"
+  },
+  {
+      "id": 3,
+      "customerName": "Milan",
+      "phoneNumber": 6056821122,
+      "address": "Phoenix",
+      "loanAmount": 725,
+      "interest": 15,
+      "loanTermYears": 3,
+      "loanType": "Personal Loan",
+      "description": "Loan for a House"
+  },
+  {
+      "id": 4,
+      "customerName": "Mishri",
+      "phoneNumber": 9850770409,
+      "address": "Miami",
+      "loanAmount": 170,
+      "interest": 5,
+      "loanTermYears": 2,
+      "loanType": "Mortage Loan",
+      "description": "Loan for Mortage"
+  }              
+]
